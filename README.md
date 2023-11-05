@@ -6,6 +6,12 @@ Refreshing React
 npx husky install
 ```
 
+```shell
+npm run dev
+```
+
+The app will automatically run on [localhost:5000](http://localhost:5000), to change the default values edit the [vite.config.ts](./vite.config.ts)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
